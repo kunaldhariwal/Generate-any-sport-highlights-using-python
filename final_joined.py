@@ -15,4 +15,4 @@ clip13= VideoFileClip("C:\\Users\\Kunal Dhariwal\\PycharmProjects\\highlight14.m
 clip14= VideoFileClip("C:\\Users\\Kunal Dhariwal\\PycharmProjects\\highlight4.mp4")
 
 final_clip = concatenate_videoclips([clip1,clip2,clip3,clip4,clip5,clip6,clip7,clip8,clip9,clip9,clip10,clip11,clip12,clip13,clip14])
-final_clip.write_videofile("C:\\Users\\Kunal Dhariwal\\PycharmProjects\\email\\final_highlights.mp4")
+final_clip.write_videofile("C:\\Users\\Kunal Dhariwal\\PycharmProjects\\final_highlights.mp4")
